@@ -1,8 +1,5 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: none !important; border-collapse: collapse; background: transparent;">
   <tr style="border: none !important; background: transparent;">
-    <td width="22%" align="left" valign="middle" style="border: none !important; background: transparent; padding: 0;">
-      <img src="https://avatars.githubusercontent.com/u/197780656?v=4" alt="Profile Avatar" width="130px" style="border-radius: 50%; display: block;" />
-    </td>
     <td width="78%" valign="middle" style="border: none !important; background: transparent; padding-left: 15px;">
       <h1 style="font-family: sans-serif; font-weight: 500; margin-bottom: 5px; color: #c9d1d9; border: none !important;">Hi, I'm Christian Deliso Ure</h1>
       <p style="font-size: 1.15em; color: #8b949e; margin: 0; font-style: italic;">
