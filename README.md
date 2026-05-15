@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="22%" align="left" valign="middle" style="border: none;">
-      <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/197780656?v=4)" alt="Profile Avatar" width="130px" style="border-radius: 50%;" />
+      <img src="https://avatars.githubusercontent.com/u/197780656?v=4" alt="Profile Avatar" width="130px" style="border-radius: 50%;" />
     </td>
     <td width="78%" valign="middle" style="padding-left: 15px; border: none;">
       <h1 style="font-family: sans-serif; font-weight: 500; margin-bottom: 5px; color: #c9d1d9;">Hi, I'm Christian Deliso Ure</h1>
@@ -17,30 +17,15 @@
 ---
 
 <h3 style="font-weight: 500; color: #c9d1d9;">Profile</h3>
-<p style="line-height: 1.6; color: #8b949e; font-size: 1.05em;">
+<p style="line-height: 1.6; color: #8b949e; font-size: 1.05em; margin-bottom: 15px;">
   As a Computer Engineer, I focus on building resilient infrastructure and extracting value from complex datasets. My engineering philosophy revolves around data efficiency, secure systems, and robust backend architectures.
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top: 15px;">
-  <tr>
-    <td width="50%" valign="top" style="border: none; color: #8b949e; line-height: 1.8;">
-      • <strong>Main Focus:</strong> Data Engineering & Machine Learning<br />
-      • <strong>Core Competencies:</strong> Backend Architecture & System Security
-    </td>
-    <td width="50%" valign="top" style="border: none; color: #8b949e; line-height: 1.8;">
-      • <strong>Currently working on:</strong> Project Kepler<br />
-      • <strong>Diving into:</strong> Advanced ML Models & Cloud Data Warehouses
-    </td>
-  </tr>
-</table>
-
-<br />
-
----
-
-<h3 style="font-weight: 500; color: #c9d1d9;">Featured Project</h3>
-<p style="line-height: 1.6; color: #8b949e; font-size: 1.05em;">
-  🚀 <strong>Kepler:</strong> A high-performance data engineering pipeline designed to monitor, ingest, and analyze the Binance P2P marketplace in Venezuela. This project transitions from a simple scraper to a robust ETL (Extract, Transform, Load) system, capturing high-frequency financial data to drive statistical analysis, identify liquidity patterns, and feed predictive Machine Learning models in a high-volatility environment.
+<p style="color: #8b949e; line-height: 1.8;">
+  • <strong style="color: #c9d1d9;">Main Focus:</strong> Data Engineering & Machine Learning <br />
+  • <strong style="color: #c9d1d9;">Core Competencies:</strong> Backend Architecture & System Security <br />
+  • <strong style="color: #c9d1d9;">Currently working on:</strong> Project Kepler (High-performance ETL pipeline for financial analytics) <br />
+  • <strong style="color: #c9d1d9;">Diving into:</strong> Advanced ML Models & Cloud Data Warehouses
 </p>
 
 <br />
