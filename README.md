@@ -48,10 +48,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=entropy-v0&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api?username=entropy-v0&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entropy-v0&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=entropy-v0&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
