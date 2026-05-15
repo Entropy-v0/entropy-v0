@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="22%" align="left" valign="middle" style="border: none;">
-      <img src="https://github.com/account" alt="Profile Avatar" width="130px" style="border-radius: 50%;" />
+      <img src="[https://github.com/account](https://avatars.githubusercontent.com/u/197780656?v=4)" alt="Profile Avatar" width="130px" style="border-radius: 50%;" />
     </td>
     <td width="78%" valign="middle" style="padding-left: 15px; border: none;">
       <h1 style="font-family: sans-serif; font-weight: 500; margin-bottom: 5px; color: #c9d1d9;">Hi, I'm Christian Deliso Ure</h1>
@@ -64,7 +64,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Entropy-v0&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" valign="top" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Entropy-v0&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="100%" />
