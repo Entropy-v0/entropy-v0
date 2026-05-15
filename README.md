@@ -1,4 +1,4 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
   <tr>
     <td width="22%" align="left" valign="middle" style="border: none;">
       <img src="https://avatars.githubusercontent.com/u/197780656?v=4" alt="Profile Avatar" width="130px" style="border-radius: 50%;" />
@@ -10,8 +10,6 @@
       </p>
     </td>
   </tr>
-</table>
-
 <br />
 
 ---
