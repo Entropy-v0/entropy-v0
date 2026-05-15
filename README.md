@@ -1,16 +1,85 @@
-## Hi there 👋
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="22%" align="left" valign="middle" style="border: none;">
+      <img src="https://github.com/account" alt="Profile Avatar" width="130px" style="border-radius: 50%;" />
+    </td>
+    <td width="78%" valign="middle" style="padding-left: 15px; border: none;">
+      <h1 style="font-family: sans-serif; font-weight: 500; margin-bottom: 5px; color: #c9d1d9;">Hi, I'm Christian Deliso Ure</h1>
+      <p style="font-size: 1.15em; color: #8b949e; margin: 0; font-style: italic;">
+        🏛️ Computer Engineer | Entropy-v0. From Venezuela to the digital void. Deciphering complex data, securing systems, and crafting digital reality. 🇻🇪🌌
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!--
-**Entropy-v0/entropy-v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 style="font-weight: 500; color: #c9d1d9;">Profile</h3>
+<p style="line-height: 1.6; color: #8b949e; font-size: 1.05em;">
+  As a Computer Engineer, I focus on building resilient infrastructure and extracting value from complex datasets. My engineering philosophy revolves around data efficiency, secure systems, and robust backend architectures.
+</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top: 15px;">
+  <tr>
+    <td width="50%" valign="top" style="border: none; color: #8b949e; line-height: 1.8;">
+      • <strong>Main Focus:</strong> Data Engineering & Machine Learning<br />
+      • <strong>Core Competencies:</strong> Backend Architecture & System Security
+    </td>
+    <td width="50%" valign="top" style="border: none; color: #8b949e; line-height: 1.8;">
+      • <strong>Currently working on:</strong> Project Kepler<br />
+      • <strong>Diving into:</strong> Advanced ML Models & Cloud Data Warehouses
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<h3 style="font-weight: 500; color: #c9d1d9;">Featured Project</h3>
+<p style="line-height: 1.6; color: #8b949e; font-size: 1.05em;">
+  🚀 <strong>Kepler:</strong> A high-performance data engineering pipeline designed to monitor, ingest, and analyze the Binance P2P marketplace in Venezuela. This project transitions from a simple scraper to a robust ETL (Extract, Transform, Load) system, capturing high-frequency financial data to drive statistical analysis, identify liquidity patterns, and feed predictive Machine Learning models in a high-volatility environment.
+</p>
+
+<br />
+
+---
+
+<h3 style="font-weight: 500; color: #c9d1d9;">Tech Stack</h3>
+
+<p style="color: #8b949e; line-height: 1.8;">
+  <strong style="color: #c9d1d9;">Backend Ecosystem:</strong> Java / Python / Django / REST APIs / Clean Architecture <br />
+  <strong style="color: #c9d1d9;">Data & ML:</strong> Data Engineering / Data Analysis / Machine Learning / SQL / NoSQL <br />
+  <strong style="color: #c9d1d9;">Tools & Environments:</strong> Git / Docker / Postman / Linux / Security Protocols
+</p>
+
+<br />
+
+---
+
+<h3 style="font-weight: 500; color: #c9d1d9;">Analytics</h3>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Entropy-v0&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<div align="center" style="margin-top: 20px;">
+  <p style="color: #8b949e;">Let's decipher the digital void together.</p>
+  <p style="font-size: 1.1em;">
+    <a href="https://www.linkedin.com/in/cdelisour/?locale=es" target="_blank" style="color: #58a6ff; text-decoration: none; margin: 0 15px;">LinkedIn</a> | 
+    <a href="mailto:christiandelisoure12@gmail.com" style="color: #58a6ff; text-decoration: none; margin: 0 15px;">Email</a>
+  </p>
+</div>
