@@ -12,8 +12,6 @@
   </tr>
 </table>
 
-<br />
-
 ---
 
 <h3 style="font-weight: 500; color: #c9d1d9;">Profile</h3>
