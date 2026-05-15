@@ -38,13 +38,13 @@
 ---
 <h3 style="font-weight: 500; color: #c9d1d9;">Analytics</h3>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.shion.dev/api?username=entropy-v0&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" width="100%" />
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border: none !important; border-collapse: collapse; background: transparent;">
+  <tr style="border: none !important; background: transparent;">
+    <td width="55%" valign="top" style="border: none !important; background: transparent; padding-right: 10px;">
+      <img src="https://github-readme-stats.shion.dev/api?username=entropy-v0&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub Stats" style="width: 100%; min-width: 400px; max-width: 500px;" />
     </td>
-    <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=entropy-v0&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="100%" />
+    <td width="45%" valign="top" style="border: none !important; background: transparent;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=entropy-v0&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" style="width: 100%; min-width: 330px; max-width: 420px;" />
     </td>
   </tr>
 </table>
