@@ -2,7 +2,7 @@
     <td width="78%" valign="middle" style="border: none !important; background: transparent; padding-left: 15px;">
       <h1 style="font-family: sans-serif; font-weight: 500; margin-bottom: 5px; color: #c9d1d9; border: none !important;">Hi, I'm Christian Deliso Ure</h1>
       <p style="font-size: 1.15em; color: #8b949e; margin: 0; font-style: italic;">
-        🏛️ Computer Engineer | Entropy-v0. From Venezuela to the digital void. Deciphering complex data, securing systems, and crafting digital reality. 🇻🇪🌌
+         Computer Engineer | Entropy-v0. From Venezuela to the digital void. Deciphering complex data, securing systems, and crafting digital reality. 🇻🇪
       </p>
     </td>
   </tr>
