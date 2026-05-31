@@ -17,7 +17,7 @@
 <p style="color: #8b949e; line-height: 1.8;">
   • <strong style="color: #c9d1d9;">Main Focus:</strong> Data Engineering & Machine Learning <br />
   • <strong style="color: #c9d1d9;">Core Competencies:</strong> Backend Architecture & System Security <br />
-  • <strong style="color: #c9d1d9;">Currently working on:</strong> Project Kepler (High-performance ETL pipeline for financial analytics) <br />
+  • <strong style="color: #c9d1d9;">Currently working on:</strong> Project Kepler-OrbitChess <br />
   • <strong style="color: #c9d1d9;">Diving into:</strong> Advanced ML Models & Cloud Data Warehouses
 </p>
 
