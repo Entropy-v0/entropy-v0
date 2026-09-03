@@ -14,7 +14,7 @@
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   
   <!-- Data Science & AI Section -->
-  <h3 style="color: #c9d1d9; font-family: sans-serif; font-weight: 500; margin-bottom: 15px;">🧠 Data Science & Artificial Intelligence</h3>
+  <h3 style="color: #c9d1d9; font-family: sans-serif; font-weight: 500; margin-bottom: 15px;">Data Science & Artificial Intelligence</h3>
   <p style="color: #8b949e; margin-bottom: 20px; font-size: 0.95em;">Extracting signals from the noise</p>
   
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@
   <br><br><br>
 
   <!-- Engineering & DevOps Section -->
-  <h3 style="color: #c9d1d9; font-family: sans-serif; font-weight: 500; margin-bottom: 15px;">⚙️ Engineering, Backend & DevOps</h3>
+  <h3 style="color: #c9d1d9; font-family: sans-serif; font-weight: 500; margin-bottom: 15px;">Engineering, Backend & DevOps</h3>
   <p style="color: #8b949e; margin-bottom: 20px; font-size: 0.95em;">Architecting and securing the digital reality</p>
   
   <a href="https://skillicons.dev">
