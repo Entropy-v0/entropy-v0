@@ -1,4 +1,4 @@
-<table width="100%" style="border: none !important; background: transparent;">
+<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <tr style="border: none !important; background: transparent;">
     <td width="78%" valign="middle" style="border: none !important; background: transparent; padding-left: 15px;">
       <h1 style="font-family: sans-serif; font-weight: 500; margin-bottom: 5px; color: #c9d1d9; border: none !important;">Hi, I'm Christian Deliso Ure</h1>
@@ -7,7 +7,7 @@
       </p>
     </td>
   </tr>
-</table>
+</div>
 
 ---
 
